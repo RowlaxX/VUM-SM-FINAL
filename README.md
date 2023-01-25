@@ -11,7 +11,7 @@ https://github.com/RowlaxX/VUM-SM-FINAL/blob/master/out.txt
 
 # Launching
 
-If you want to launch the programs by yourself, clone this repository, and then launch script depending of your OS
+If you want to launch the programs by yourself, clone this repository, and then launch the script depending of your OS
 
 ## Windows
 
