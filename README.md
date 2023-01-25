@@ -6,7 +6,7 @@ This project has two goals :
 
 # Result
 
-A result can be founc here : 
+An already launched program output can be found here : 
 https://github.com/RowlaxX/VUM-SM-FINAL/blob/master/out.txt
 
 # Launching
